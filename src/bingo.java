@@ -2,8 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-/* Trabajo realizado por Noelia Cegarra Castillo
-Fuentes externas al curso consultadas:
+/* Fuentes externas al curso consultadas:
 https://stackoverflow.com/questions/24104313/how-do-i-make-a-delay-in-java
 https://www.digitalocean.com/community/tutorials/java-array-contains-value
 https://stackoverflow.com/questions/16524709/finding-if-an-array-contains-all-elements-in-another-array
